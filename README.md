@@ -2,7 +2,7 @@
 Use one of the algorithms in image recognition, CNN , this project is trying to predict whether the picture is a cat or dog
 
 # Introduction
-This Model is based on https://medium.com/nybles/create-your-first-image-recognition-classifier-using-cnn-keras-and-tensorflow-backend-6eaab98d14dd. i want to give my thankfulness to Yash Agarwal, who write the reference.
+This Model is based on https://medium.com/nybles/create-your-first-image-recognition-classifier-using-cnn-keras-and-tensorflow-backend-6eaab98d14dd. i want to give my thankfulness to Yash Agarwal, who wrote the reference.
 
 Some changes are applied as needed
 
